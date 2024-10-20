@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/test/components/bitrix/menu/horizontal_multilevel/script.js" => "1728829356407",]; ?>
